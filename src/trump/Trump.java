@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Trump {
 
-
     /** 全カード */
     private List<Card> trumps;
 
